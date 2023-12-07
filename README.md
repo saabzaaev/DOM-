@@ -1,5 +1,6 @@
 # DOM
 ## What is DOM in JavaScript
+> [!TIP]
 > Document Object Model:structured representetion of HTML documents. Allows JavaScript to access HTML element and style to manipulate them.
 
 ![p](https://www.fatalerrors.org/images/blog/7e1369c325180da7c0cccf274a83363c.jpg)
